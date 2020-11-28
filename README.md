@@ -1,6 +1,8 @@
 # Support Vector Machine and Scikit-learn 🤖 🦾
 
-Welcome, this repository contains an introduction to SVM and its application using Scikit-learn 
+Welcome, this repository contains an introduction to SVM and its application using Scikit-learn. 
+
+**See video [here](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f994000-d1d1-49bf-bec2-ac810157b3b6)**.  
 
 
 ## What do you can find in this tutorial?
