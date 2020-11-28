@@ -54,7 +54,7 @@ After we prepare the data, define the arrays, import the libraries we **fit** th
 ### Where can I learn more?
 If you want to learn SVM I recommend some books, GitHub links, and interactive courses. 
 
-## Notes
+## Final Note
 
 I prepared this tutorial as part of an assignment of the course Scientific Computational for Social Science, so I am learning these tools. Happy to receive your comments and suggestions. 
 
