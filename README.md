@@ -1,6 +1,6 @@
 # Support Vector Machine and Scikit-learn 🤖 🦾
 
-Welcome, this repository contains an introduction to SVM and its application using Scikit-learn 🤖 🦾
+Welcome, this repository contains an introduction to SVM and its application using Scikit-learn 
 
 
 ## What do you can find in this tutorial?
