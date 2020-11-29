@@ -52,7 +52,7 @@ Examples:
 After we prepare the data, define the arrays, import the libraries we **fit** the model, and then evaluate. For the evaluation, we split the sample into training and test, and we then compare the prediction with the label data. We look at the accuracy to evaluate the fitted model. 
 
 ### Where can I learn more?
-If you want to learn SVM I recommend some books, GitHub links, and interactive courses. 
+If you want to learn SVM I recommend some books, GitHub links, and interactive courses (see the zip file and video). 
 
 ## Final Note
 
