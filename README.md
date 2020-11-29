@@ -5,7 +5,7 @@ Welcome, this repository contains an introduction to SVM and its application usi
 **See video [here](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f994000-d1d1-49bf-bec2-ac810157b3b6)**.  
 
 
-## What do you can find in this tutorial?
+## What can you find in this repository?
 - What problem does SVM methods help to solve?
 - Origins
 - Intuition
@@ -14,14 +14,14 @@ Welcome, this repository contains an introduction to SVM and its application usi
 - How do you use the tool? Scikit-Learn application, and some decision when using it
 - Where can you go to learn more about the tool?
 
-## What do you can find in the zipped file?
+## What can you find in the zipped file?
 * Jupyter notebook with links to download the data and more information. 
 * Jupyter notebook downloaded as HTML for visualization. 
 * Slides used in the tutorial
 * Figures incorporated in the notebook
 * Empirical data used in the Scikit-learn application
 
-## Summary of what you can find in the video and files
+## Summary of the contents in the video and files
 
 ### What is SVM?
 
